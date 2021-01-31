@@ -1,0 +1,3 @@
+export const ACTIONS = {
+    ADD_RESTAURANTS: 'ADD_RESTAURANTS',
+}
